@@ -1,6 +1,7 @@
 ---
-title:  "Echo Reader Blogspot"
-layout: post
+title: "Echo Reader Blogspot"
+description: "Echo Reader Blogspot"
+pubDate: "Mar 24 2025"
 ---
 
 # Discover My Amazing Blogs!

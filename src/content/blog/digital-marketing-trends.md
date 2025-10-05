@@ -1,7 +1,7 @@
 ---
 title:  "Digital Marketing Trends"
 description: "Digital Marketing Trends"
-layout: post
+pubDate: "Jul 15 2023"
 ---
 
 # Digital Marketing Trends 2025: Enhancing Strategies in the Digital Era
